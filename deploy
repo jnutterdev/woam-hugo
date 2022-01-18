@@ -1,0 +1,7 @@
+#!/bin/sh
+HOST=ashtephra            
+DIR=all_domains/withonlyamap.com
+
+hugo && rsync -avz --delete public/ ${USER}:~/${DIR}
+
+exit 0

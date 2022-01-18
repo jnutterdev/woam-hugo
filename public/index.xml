@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>withonlyamap</title>
+    <link>https://withonlyamap.com/</link>
+    <description>Recent content on withonlyamap</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>All designs and content by John Nutter for jnutterdev.com</copyright>
+    <lastBuildDate>Tue, 18 Jan 2022 09:41:47 -0500</lastBuildDate><atom:link href="https://withonlyamap.com/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>My First Post</title>
+      <link>https://withonlyamap.com/posts/my-first-post/</link>
+      <pubDate>Tue, 18 Jan 2022 09:41:47 -0500</pubDate>
+      
+      <guid>https://withonlyamap.com/posts/my-first-post/</guid>
+      <description>Soon I will share with the world my newest events.</description>
+    </item>
+    
+  </channel>
+</rss>
