@@ -4,7 +4,8 @@ baseURL: "https://withonlyamap.com/"
 copyright: "All designs and content by John Nutter for jnutterdev.com"
 enableEmoji: true
 languageCode: en-us
-params: 
+params:
+  defaultTheme: auto
   homeInfoParams: 
     Content: "A personal site for exploring audio and nature"
     Title: "Hi there 👋"
