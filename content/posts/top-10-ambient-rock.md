@@ -10,6 +10,4 @@ I first got into post-rock around 1999 and have been listening ever since. Post-
 
 The following playlist is sort of a favorites put together over the years. While most of it is more on the ambient side of the post-rock, there's a few songs mixed in that I feel are post-rock adjacent and have shaped my tastes in some way. 
 
-<iframe src="https://open.spotify.com/embed/playlist/0ScyKXF1HUbP9qDQWcagIB?utm_source=generator" width="100%" height="380" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe>
-
-
+{{< spotify type="playlist" id="0ScyKXF1HUbP9qDQWcagIB" >}}
