@@ -1,21 +1,21 @@
 theme: hugo-PaperMod
 title: withonlyamap
 baseURL: "https://withonlyamap.com/"
-copyright: "All designs and content by John Nutter for jnutterdev.com"
+copyright: "2014-{year}. All designs and content by John Nutter for jnutterdev.com"
 enableEmoji: true
 languageCode: en-us
 params:
   defaultTheme: auto
   homeInfoParams: 
-    Content: "A personal site for exploring audio and nature"
-    Title: "Hi there 👋"
+    Content: "A personal blog that mainly focuses on music, but will also touch on books and anything science related. Hope you enjoy!"
+    Title: "Explorations in music"
   socialIcons: 
     - 
       name: instagram
       url: "https://www.instagram.com/withonlyamap/"
     - 
       name: twitter
-      url: "https://twitter.com"
+      url: "https://twitter.com/withonlyamap"
     -
       name: spotify
       url: "https://open.spotify.com/user/31nodvbr4typrgzzjjtcygs3xd6e?si=6d608ac44ae84951"
