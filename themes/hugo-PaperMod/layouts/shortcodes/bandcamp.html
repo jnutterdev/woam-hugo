@@ -1,0 +1,30 @@
+<!--
+Parameters:
+    type - (Required) `album` or `track` 
+    id - (Required) Target ID of track or album
+    size - (Optional) size of player, `large` or `small`
+    bgcol - (Optional) background color of player, `black` or `white`. default `white`.
+    linkcol - (optional) link colors, default black. all color options: 
+        blue=0687f5
+        orange=e99708
+        green=2ebd35
+        purple=7137dc
+        pink=f171a2
+        lblue=63b2cc
+        red=de270f
+        dark=333333
+
+    tracklist - (optional) display tracks, default false
+    artwork - (optional) size of artwork, large or small default small
+-->
+
+<iframe style="border: 0; width: 100%; height: 120px;" 
+src="https://bandcamp.com/EmbeddedPlayer
+/album={{ .Get "id" }}
+/size={{ default "small" (.Get "size") }}
+/bgcol={{ default "ffffff" (.Get "bgcol") }}
+/linkcol={{ default "000000" (.Get "linkcol") }}
+/tracklist={{ default "false" (.Get "tracklist") }}
+/artwork={{ default "small" (.Get "artwork") }}
+/transparent=true/"></iframe>
+
