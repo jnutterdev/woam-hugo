@@ -4,6 +4,7 @@ baseURL: "https://withonlyamap.com/"
 copyright: "2014-{year}. All designs and content by John Nutter for jnutterdev.com"
 enableEmoji: true
 languageCode: en-us
+staticDir: static
 params:
   defaultTheme: auto
   homeInfoParams: 
