@@ -5,10 +5,26 @@ copyright: "2014-{year}. All designs and content by John Nutter for jnutterdev.c
 enableEmoji: true
 languageCode: en-us
 staticDir: static
+
+menu:
+  main:
+    - identifier: Home
+      name: Home
+      url: /
+      weight: 10
+    - identifier: About
+      name: About
+      url: /about
+      weight: 20
+    - identifier: Projects
+      name: Projects
+      url: /projects
+      weight: 30
+      
 params:
   defaultTheme: auto
   homeInfoParams: 
-    Content: "A personal blog that mainly focuses on music, but will also touch on books and anything science related. Hope you enjoy!"
+    Content: "A personal blog that mainly focuses on music, but will also touch on books and anything science related."
     Title: "Explorations in music"
   socialIcons: 
     - 
@@ -20,4 +36,3 @@ params:
     -
       name: spotify
       url: "https://open.spotify.com/user/31nodvbr4typrgzzjjtcygs3xd6e?si=6d608ac44ae84951"
-
