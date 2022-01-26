@@ -31,6 +31,7 @@
 
 .list {
     background: var(--code-bg);
+    background-image: url('https://images.pexels.com/photos/3484061/pexels-photo-3484061.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940');
 }
 
 .dark.list {

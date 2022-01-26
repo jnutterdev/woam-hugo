@@ -20,9 +20,10 @@ menu:
       name: Projects
       url: /projects
       weight: 30
-      
+
 params:
-  defaultTheme: auto
+  defaultTheme: light
+  disableThemeToggle: true
   homeInfoParams: 
     Content: "A personal blog that mainly focuses on music, but will also touch on books and anything science related."
     Title: "Explorations in music"
