@@ -23,6 +23,10 @@
     padding: 0 16px;
 }
 
+a:hover {
+    color: #fbc364;
+}
+
 .pagination .next {
     margin-inline-start: auto;
 }
