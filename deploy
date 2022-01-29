@@ -2,6 +2,6 @@
 HOST=ashtephra            
 DIR=all_domains/withonlyamap.com
 
-hugo && rsync -avz --delete public/ ${USER}:~/${DIR}
+hugo && rsync -avz --delete public/ ${HOST}:~/${DIR}
 
 exit 0

@@ -10,7 +10,7 @@
 <meta name="description" content="">
 <meta name="author" content="">
 <link rel="canonical" href="https://withonlyamap.com/" />
-<link crossorigin="anonymous" href="/assets/css/stylesheet.min.c88963fe2d79462000fd0fb1b3737783c32855d340583e4523343f8735c787f0.css" integrity="sha256-yIlj/i15RiAA/Q&#43;xs3N3g8MoVdNAWD5FIzQ/hzXHh/A=" rel="preload stylesheet" as="style">
+<link crossorigin="anonymous" href="/assets/css/stylesheet.min.96d5b4d2ae500e123f50bde962e1aa8d3f94597b821cd5a0f4aa4a84c93fd544.css" integrity="sha256-ltW00q5QDhI/UL3pYuGqjT&#43;UWXuCHNWg9KpKhMk/1UQ=" rel="preload stylesheet" as="style">
 <link rel="icon" href="https://withonlyamap.com/favicon.ico">
 <link rel="icon" type="image/png" sizes="16x16" href="https://withonlyamap.com/favicon-16x16.png">
 <link rel="icon" type="image/png" sizes="32x32" href="https://withonlyamap.com/favicon-32x32.png">
@@ -25,34 +25,6 @@
         #theme-toggle,
         .top-link {
             display: none;
-        }
-
-    </style>
-    <style>
-        @media (prefers-color-scheme: dark) {
-            :root {
-                --theme: rgb(29, 30, 32);
-                --entry: rgb(46, 46, 51);
-                --primary: rgb(218, 218, 219);
-                --secondary: rgb(155, 156, 157);
-                --tertiary: rgb(65, 66, 68);
-                --content: rgb(196, 196, 197);
-                --hljs-bg: rgb(46, 46, 51);
-                --code-bg: rgb(55, 56, 62);
-                --border: rgb(51, 51, 51);
-            }
-
-            .list {
-                background: var(--theme);
-            }
-
-            .list:not(.dark)::-webkit-scrollbar-track {
-                background: 0 0;
-            }
-
-            .list:not(.dark)::-webkit-scrollbar-thumb {
-                border-color: var(--theme);
-            }
         }
 
     </style>
@@ -74,62 +46,47 @@
   "description": "",
   "thumbnailUrl": "https://withonlyamap.com/favicon.ico",
   "sameAs": [
-      "https://www.instagram.com/withonlyamap/", "https://twitter.com", "https://open.spotify.com/user/31nodvbr4typrgzzjjtcygs3xd6e?si=6d608ac44ae84951"
+      "https://www.instagram.com/withonlyamap/", "https://twitter.com/withonlyamap", "https://open.spotify.com/user/31nodvbr4typrgzzjjtcygs3xd6e?si=6d608ac44ae84951"
   ]
 }
 </script>
 </head>
 
 <body class="list" id="top">
-<script>
-    if (localStorage.getItem("pref-theme") === "dark") {
-        document.body.classList.add('dark');
-    } else if (localStorage.getItem("pref-theme") === "light") {
-        document.body.classList.remove('dark')
-    } else if (window.matchMedia('(prefers-color-scheme: dark)').matches) {
-        document.body.classList.add('dark');
-    }
-
-</script>
 
 <header class="header">
     <nav class="nav">
         <div class="logo">
             <a href="https://withonlyamap.com/" accesskey="h" title="withonlyamap (Alt + H)">withonlyamap</a>
             <span class="logo-switches">
-                <button id="theme-toggle" accesskey="t" title="(Alt + T)">
-                    <svg id="moon" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24"
-                        fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"
-                        stroke-linejoin="round">
-                        <path d="M21 12.79A9 9 0 1 1 11.21 3 7 7 0 0 0 21 12.79z"></path>
-                    </svg>
-                    <svg id="sun" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24"
-                        fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"
-                        stroke-linejoin="round">
-                        <circle cx="12" cy="12" r="5"></circle>
-                        <line x1="12" y1="1" x2="12" y2="3"></line>
-                        <line x1="12" y1="21" x2="12" y2="23"></line>
-                        <line x1="4.22" y1="4.22" x2="5.64" y2="5.64"></line>
-                        <line x1="18.36" y1="18.36" x2="19.78" y2="19.78"></line>
-                        <line x1="1" y1="12" x2="3" y2="12"></line>
-                        <line x1="21" y1="12" x2="23" y2="12"></line>
-                        <line x1="4.22" y1="19.78" x2="5.64" y2="18.36"></line>
-                        <line x1="18.36" y1="5.64" x2="19.78" y2="4.22"></line>
-                    </svg>
-                </button>
             </span>
         </div>
         <ul id="menu">
+            <li>
+                <a href="https://withonlyamap.com/" title="Home">
+                    <span class="active">Home</span>
+                </a>
+            </li>
+            <li>
+                <a href="https://withonlyamap.com/about" title="About">
+                    <span>About</span>
+                </a>
+            </li>
+            <li>
+                <a href="https://withonlyamap.com/projects" title="Projects">
+                    <span>Projects</span>
+                </a>
+            </li>
         </ul>
     </nav>
 </header>
 <main class="main"> 
 <article class="first-entry home-info">
     <header class="entry-header">
-        <h1>Hi there 👋</h1>
+        <h1>Explorations in music</h1>
     </header>
     <section class="entry-content">
-        <p>A personal site for exploring audio and nature</p>
+        <p>A personal outlet for writing about music, art, science and life in general.</p>
     </section>
     <footer class="entry-footer">
         <div class="social-icons">
@@ -141,7 +98,7 @@
     <line x1="17.5" y1="6.5" x2="17.5" y2="6.5"></line>
 </svg>
     </a>
-    <a href="https://twitter.com" target="_blank" rel="noopener noreferrer me" title="Twitter">
+    <a href="https://twitter.com/withonlyamap" target="_blank" rel="noopener noreferrer me" title="Twitter">
         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"
     stroke-linecap="round" stroke-linejoin="round">
     <path
@@ -156,6 +113,7 @@
 </svg>
     </a>
 </div>
+
     </footer>
 </article>
 
@@ -165,9 +123,8 @@
     </h2>
   </header>
   <section class="entry-content">
-    <p>Recently I decided to revive this site. I gave it a new face using hugo, which I find to be more of a pleeasure to use than Jekyll as of late.
-My future plans for this site will be to write and share about music, books, and science. It’s an effort to go back to the way things were prior to joining the tech industry.
-I’m also working to get ash//tephra up and going finally....</p>
+    <p>Recently I decided to revive my old domain, withonlyamap.com. It’s been a hobby domain for a while but fell to the wayside. Anyway, I had the idea to start using it again to share mostly music I enjoy. I may also write about photography, scientific topics, and general life updates.
+As a bit of personal news, I’m currently on paternity leave as my wife, and I had a daughter earlier this month....</p>
   </section>
   <footer class="entry-footer"><span title='2022-01-18 09:41:47 -0500 EST'>January 18, 2022</span></footer>
   <a class="entry-link" aria-label="post link to Site revival" href="https://withonlyamap.com/posts/2022-01-18/"></a>
@@ -175,7 +132,7 @@ I’m also working to get ash//tephra up and going finally....</p>
     </main>
     
 <footer class="footer">
-    <span>All designs and content by John Nutter for jnutterdev.com</span>
+    <span>&copy; 2014-2022. All designs and content by John Nutter</span> for <a href="https://jnutterdev.com">jnutterdev.com</a>
     <span>
         Powered by
         <a href="https://gohugo.io/" rel="noopener noreferrer" target="_blank">Hugo</a> &
@@ -192,13 +149,13 @@ I’m also working to get ash//tephra up and going finally....</p>
     let menu = document.getElementById('menu')
     if (menu) {
         menu.scrollLeft = localStorage.getItem("menu-scroll-position");
-        menu.onscroll = function () {
+        menu.onscroll = function() {
             localStorage.setItem("menu-scroll-position", menu.scrollLeft);
         }
     }
 
     document.querySelectorAll('a[href^="#"]').forEach(anchor => {
-        anchor.addEventListener("click", function (e) {
+        anchor.addEventListener("click", function(e) {
             e.preventDefault();
             var id = this.getAttribute("href").substr(1);
             if (!window.matchMedia('(prefers-reduced-motion: reduce)').matches) {
@@ -215,11 +172,10 @@ I’m also working to get ash//tephra up and going finally....</p>
             }
         });
     });
-
 </script>
 <script>
     var mybutton = document.getElementById("top-link");
-    window.onscroll = function () {
+    window.onscroll = function() {
         if (document.body.scrollTop > 800 || document.documentElement.scrollTop > 800) {
             mybutton.style.visibility = "visible";
             mybutton.style.opacity = "1";
@@ -228,20 +184,6 @@ I’m also working to get ash//tephra up and going finally....</p>
             mybutton.style.opacity = "0";
         }
     };
-
-</script>
-<script>
-    document.getElementById("theme-toggle").addEventListener("click", () => {
-        if (document.body.className.includes("dark")) {
-            document.body.classList.remove('dark');
-            localStorage.setItem("pref-theme", 'light');
-        } else {
-            document.body.classList.add('dark');
-            localStorage.setItem("pref-theme", 'dark');
-        }
-    })
-
-</script>
-</body>
+</script></body>
 
 </html>

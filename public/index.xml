@@ -6,17 +6,34 @@
     <description>Recent content on withonlyamap</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <copyright>All designs and content by John Nutter for jnutterdev.com</copyright>
+    <copyright>2014-{year}. All designs and content by John Nutter</copyright>
     <lastBuildDate>Tue, 18 Jan 2022 09:41:47 -0500</lastBuildDate><atom:link href="https://withonlyamap.com/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Projects</title>
+      <link>https://withonlyamap.com/projects/</link>
+      <pubDate>Tue, 25 Jan 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://withonlyamap.com/projects/</guid>
+      <description>Everything I&amp;#39;m working on, have worked on, or plan to work on is here.</description>
+    </item>
+    
     <item>
       <title>Site revival</title>
       <link>https://withonlyamap.com/posts/2022-01-18/</link>
       <pubDate>Tue, 18 Jan 2022 09:41:47 -0500</pubDate>
       
       <guid>https://withonlyamap.com/posts/2022-01-18/</guid>
-      <description>Recently I decided to revive this site. I gave it a new face using hugo, which I find to be more of a pleeasure to use than Jekyll as of late.
-My future plans for this site will be to write and share about music, books, and science. It&amp;rsquo;s an effort to go back to the way things were prior to joining the tech industry.
-I&amp;rsquo;m also working to get ash//tephra up and going finally.</description>
+      <description>Recently I decided to revive my old domain, withonlyamap.com. It&amp;rsquo;s been a hobby domain for a while but fell to the wayside. Anyway, I had the idea to start using it again to share mostly music I enjoy. I may also write about photography, scientific topics, and general life updates.
+As a bit of personal news, I&amp;rsquo;m currently on paternity leave as my wife, and I had a daughter earlier this month.</description>
+    </item>
+    
+    <item>
+      <title>About Me</title>
+      <link>https://withonlyamap.com/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://withonlyamap.com/about/</guid>
+      <description>Hi there, I&amp;rsquo;m John Nutter, and I find many things interesting. I&amp;rsquo;m a software engineer by trade, a Father of two, and live in Decatur, GA, with my wife. When I&amp;rsquo;m not working on websites, I create things musically and discover new things about the world around me. withonlyamap.com is mainly an outlet for writing about what I make and learn about, so I can share with a few more folks.</description>
     </item>
     
   </channel>
