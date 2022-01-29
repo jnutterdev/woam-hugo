@@ -1,7 +1,7 @@
 theme: hugo-PaperMod
 title: withonlyamap
 baseURL: "https://withonlyamap.com/"
-copyright: "2014-{year}. All designs and content by John Nutter for jnutterdev.com"
+copyright: "2014-{year}. All designs and content by John Nutter"
 enableEmoji: true
 languageCode: en-us
 staticDir: static
@@ -25,7 +25,7 @@ params:
   defaultTheme: light
   disableThemeToggle: true
   homeInfoParams: 
-    Content: "A personal blog that mainly focuses on music, but will also touch on books and anything science related."
+    Content: "A personal outlet for writing about music, art, science and life in general. "
     Title: "Explorations in music"
   socialIcons: 
     - 
