@@ -35,5 +35,5 @@ params:
       name: twitter
       url: "https://twitter.com/withonlyamap"
     -
-      name: spotify
-      url: "https://open.spotify.com/user/31nodvbr4typrgzzjjtcygs3xd6e?si=6d608ac44ae84951"
+      name: bandcamp
+      url: "https://bandcamp.com/withonlyamap"

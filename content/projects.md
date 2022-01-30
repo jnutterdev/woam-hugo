@@ -6,6 +6,7 @@ showReadingTime: false
 modified: 2022-01-25
 ---
 
+Most of my current projects are hobby projects, but below is a list of them all. 
 I recently reacquired an older domain of mine, longlostforgotten.com. I'm not sure exactly what I plan on doing with it yet but I'll update the activity here once I have a clearer picture. Here's a list of all my domains:
 
 - [withonlyamap.com](https://www.withonlyamap.com) : Personal blogging site
@@ -15,7 +16,9 @@ I recently reacquired an older domain of mine, longlostforgotten.com. I'm not su
 - [longlostforgotten](https://www.longlostforgotten.com) : TBD
 
 ### Music
-- [Ashtephra bandcamp](https://ashtephra.bandcamp.com)
+
+- [ash//tephra bandcamp](https://ashtephra.bandcamp.com)
+- [ash//tephra soundcloud](https://soundcloud.com/ashtephra)
 
 
 ### Other sites
