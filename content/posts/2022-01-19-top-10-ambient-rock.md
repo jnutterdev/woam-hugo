@@ -12,16 +12,3 @@ The following playlist is sort of a favorites put together over the years. While
 1. The Dead Flag Blues - Godspeed You! Black Emperor
     Probably one of the most quintessential post-rock groups out there. A collective of muscicians from Canada
 
-2. 
-
-3. 
-
-4. 
-
-5. 
-
-6. 
-
-7.
-
-{{< spotify type="playlist" id="0ScyKXF1HUbP9qDQWcagIB" height="380" >}}
