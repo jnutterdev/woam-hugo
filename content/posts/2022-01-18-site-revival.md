@@ -2,11 +2,8 @@
 title: "Site revival"
 date: 2022-02-01 08:34:29 -05:00
 draft: false
-# cover:
-    #image: "gatlinburgtn042021.jpg"
-    #alt: "Gatlinburg, TN April 2021"
-    #caption: "TN valley"
-    #relative: false # To use relative path for cover image, used in hugo Page-bundles
+tags:
+- website
 ---
 
 Recently I decided to revive my old domain, withonlyamap.com. It's been a hobby domain for a while but fell to the wayside. Anyway, I had the idea to start using it again to share mostly music I enjoy. I may also write about photography, scientific topics, and general life updates. 
